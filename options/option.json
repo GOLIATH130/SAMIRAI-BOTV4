@@ -1,0 +1,10 @@
+{
+    "botName": "Samurai Bot",
+    "ownerName": "Samurai",
+    "BarBarKey": "YOUR_APIKEY",
+    "ownerNumbers": "573175852207@s.whatsapp.net",
+    "languages": "ind",
+    "botPrefix": "!",
+    "memberLimitss": "1",
+    "userDefaultLimit": "1000000"
+}
