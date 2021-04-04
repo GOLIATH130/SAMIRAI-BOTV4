@@ -10,12 +10,12 @@ console.log('------------------------------------------------')
 let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
-CFonts.say('SAMURAI V4', {
+CFonts.say('PATO V4', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'Bot samurai v4\' By samurai', {
+CFonts.say('\'Bot pato v4\' By samurai', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -44,4 +44,4 @@ function start() {
 
 start()
 console.log('------------------------------------------------')
-lolcatjs.fromString('[REB] SAMURAI')
+lolcatjs.fromString('[REB] PATO')
